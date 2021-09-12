@@ -1,0 +1,68 @@
+{"intents": [
+    {"tag": "greeting",
+      "patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Good day", "Whats up", "Hey", "greetings"],
+      "responses": [""],
+      "context_set": ""
+    },
+    {"tag": "goodbye",
+      "patterns": ["cya", "See you later", "Goodbye", "I am Leaving", "Have a Good day", "bye", "cao", "see ya"],
+      "responses": [""],
+      "context_set": ""
+    },
+    {"tag": "ask_time",
+      "patterns": ["What time", "What time is it"],
+      "responses": [""],
+      "context_set": ""
+    },
+    {"tag": "ask_day",
+      "patterns": ["What day", "What's the day today"],
+      "responses": [""],
+      "context_set": ""
+    },
+    {"tag": "question",
+      "patterns": ["Wikipedia", "Wiki", "What is water", "What is war", "What are nutrients?", "Why is there a rainbow?", "Who is the richest person in the world?", "What is the population of Vietnam?", "How many provinces does Vietnam have?", "How many students are taking the university entrance exam this year"],
+      "responses": [""],
+      "context_set": ""
+    },
+    {"tag": "ask_news",
+      "patterns": ["Today's new", "News update", "News", "document", "administrative documents", "covid text", "text", "administrative procedures", "immigration procedures", "business registration procedure"],
+      "responses": [""],
+      "context_set": ""
+    },
+    {"tag": "calculate",
+      "patterns": ["calculate", "calculate 1 + 2", "2 + 3", "3 x 3", "4 / 4"],
+      "responses": [""],
+      "context_set": ""
+    },
+    {"tag": "ask_weather",
+      "patterns": ["The weather today", "Weather forecast", "Tomorrow's weather forecast", "Will it rain tomorrow in Ca Mau"],
+      "responses": [""],
+      "context_set": ""
+    },
+    {"tag": "ask_covid",
+      "patterns": ["Covid-19 pandemic situation", "covid-19 epidemic today", "Covid-19 epidemic information"],
+      "responses": [""],
+      "context_set": ""
+    },
+    {"tag": "ask_crypto",
+      "patterns": ["price btc", "price", "price xrp", "price doge", "cryptocurrency price", "cryptocurrency situation today", "cryptocurrency price update"],
+      "responses": [""],
+      "context_set": ""
+    },
+    {"tag": "open_song",
+      "patterns": ["sing", "song", "want to hear the song", "open the song", "open the song My Love", "turn off the music", "stop playing music"],
+      "responses": [""],
+      "context_set": ""
+    },
+    {"tag": "ask_schedule",
+      "patterns": ["tomorrow's class schedule", "schedule", "December 20 school calendar", "studying on July 24"],
+      "responses": [""],
+      "context_set": ""
+    },
+    {"tag": "ask_food",
+      "patterns": ["food", "dish", "Banh Xeo dish", "Pho dish", "Tet cake dish", "soup", "soup cake", "noodle dish"],
+      "responses": [""],
+      "context_set": ""
+    }
+  ]
+  }
