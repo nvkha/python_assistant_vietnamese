@@ -36,7 +36,7 @@ $ pip install -r requirement.txt
 $ pip install PyAudio-0.2.11-cp38-cp38-win_amd64.whl
 ```
 
-### How to run
+## How to run
 ```
 $ python main.py 
 ```
