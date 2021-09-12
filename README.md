@@ -18,7 +18,7 @@
 - Tells food info
 - Tells schedule of BUDCM
 
-## How to install Assistant
+## How to install 
 
 
 #### You need to install java 
