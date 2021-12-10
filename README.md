@@ -16,7 +16,7 @@
 - Do basic calculations
 - Tells top 10 cryptocurrency prices
 - Tells food info
-- Tells schedule of BUDCM
+- Tells schedule of BDUCM
 
 ## How to install 
 
